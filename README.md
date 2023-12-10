@@ -66,3 +66,7 @@ Please adhere to Python's PEP 8 style guide. Maintain consistency with the exist
 By contributing to wordlist_generator, you agree that your contributions will be licensed under the [project license].
 
 Happy contributing!
+
+
+[![Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
+
