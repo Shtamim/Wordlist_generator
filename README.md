@@ -72,4 +72,4 @@ Happy contributing!
 
 [![Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shtamim&hide_progress=true)
