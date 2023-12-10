@@ -66,6 +66,11 @@ Please adhere to Python's PEP 8 style guide. Maintain consistency with the exist
 By contributing to wordlist_generator, you agree that your contributions will be licensed under the [project license].
 
 Happy contributing!
+#Screenshot
+"Here i have provided a picture that may help you a little to undersatnd how to exicute git clone command"
+
+
+![picture from termux](Screenshot_2023-12-10-18-30-54-313_com.termux)
 
 
 [![Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
