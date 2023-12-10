@@ -70,8 +70,7 @@ Happy contributing!
 "Here i have provided a picture that may help you a little to undersatnd how to exicute git clone command"
 
 
-![picture from termux](Screenshot_2023-12-10-18-30-54-313_com.termux)
+![picture from termux](/storage/emulated/0/DCIM/Screenshots/Screenshot_2023-12-10-18-30-54-313_com.termux.jpg)
 
 
 [![Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
-
