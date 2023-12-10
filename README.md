@@ -67,7 +67,7 @@ By contributing to wordlist_generator, you agree that your contributions will be
 
 Happy contributing!
 
-#Programming language
+## Programming language
 
 [![Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 
