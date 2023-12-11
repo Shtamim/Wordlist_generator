@@ -1,7 +1,6 @@
 
 [![Development Environment](https://img.shields.io/badge/Environment-Android-brightgreen)](https://developer.android.com/)
 [![Version](https://img.shields.io/badge/Version-1.0-blue)](https://your-project-releases)
-[![GitHub](https://github.com/logo.png)](https://github.com/shtamim/Wordlist_generator)
 
 ## Wordlist_generator
 
