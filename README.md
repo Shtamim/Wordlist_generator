@@ -71,9 +71,7 @@ Happy contributing!
 
 - [$Dark-phoenix 7](https://github.com/shtamim) - Solo Contributor{hehe it's me👾}
 
-\033[1;32m🌍 Country:\033[0m [BANGLADESH 🇧🇩]
-
-
+🌍 Country:[BANGLADESH 🇧🇩]
 
 ## Programming language
 
