@@ -69,8 +69,8 @@ Happy contributing!
 
 ## Contributors
 
-- [Dark phoenix](https://github.com/shtamim) - Sole Contributor{hehe it's me👾}
-- from 🇧🇩
+- [$Dark-phoenix 7](https://github.com/shtamim) - Solo Contributor{hehe it's me👾}
+- from BANGLADESH 🇧🇩
 
 
 ## Programming language
