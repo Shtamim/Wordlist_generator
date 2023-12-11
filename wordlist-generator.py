@@ -1,3 +1,15 @@
+# Compact banner design with replacement
+banner = '''
+\033[1;32m ____   __   ____  __ _    ____  _  _   __  ____  __ _  __  _  _ \033[0m
+\033[1;32m(    \ / _\ (  _ \(  / )  (  _ \/ )( \ /  \(  __)(  ( \(  )( \/ )\033[0m
+\033[1;32m ) D (/    \ )   / )  (    ) __/) __ ((  O )) _) /    / )(  )  ( \033[0m
+\033[1;32m(____/\_/\_/(__\_)(__\_)  (__)  \_)(_/ \__/(____)\_)__)(__)(_/\_)\033[0m
+\033[1;32mAuthor: \033[1;32mSh tamim\033[0m \033[1;31mVersion: \033[1;31m1.0\033[0m
+'''
+
+print(banner)
+
+# Rest of the code remains unchanged
 import itertools
 
 def generate_wordlist(chars, min_length, max_length, output_file):
@@ -19,4 +31,3 @@ if __name__ == "__main__":
 
     generate_wordlist(chars, min_length, max_length, output_file)
     print("Wordlist generated successfully.")
-
