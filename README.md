@@ -75,9 +75,9 @@ Happy contributing!
 ## Contributors
 | Contributor | Profile Photo |
 |-------------|---------------|
-| [shtamim](https://github.com/shtamim) | ![shtamim](https://github.com/shtamim.png) |
+| [$Dark-phoenix 7](https://github.com/shtamim) | ![shtamim](https://github.com/shtamim.png) |
 
-- [$Dark-phoenix 7](https://github.com/shtamim) - Solo Contributor{hehe it's me👾}
+🔖  Solo Contributor 👾
 
 🌍 Country:[BANGLADESH 🇧🇩]
 
