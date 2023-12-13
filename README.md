@@ -70,7 +70,8 @@ Please adhere to Python's PEP 8 style guide. Maintain consistency with the exist
 
 ## License
 
-By contributing to wordlist_generator, you agree that your contributions will be licensed under the [project license].
+By contributing to wordlist_generator, you agree that your contributions will be licensed under the [GNU General Public License v3.0](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
 
 Happy contributing!
 
