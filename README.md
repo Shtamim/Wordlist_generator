@@ -9,6 +9,8 @@ To exicute this please give command:
   1. python "wordlist_generator.py"
 [Then use have to give the caracter input properly to exicute this tool ]
 Thank you very much<3
+# Screenshot
+![example](https://github.com/Shtamim/Wordlist_generator/assets/134215366/a23346a5-9d22-46cf-bcdc-92437e66bba1)
 # Contributing to wordlist_generator
 
 Thank you for considering contributing to the **wordlist_generator** project! Your contributions are valuable in making this project better.
