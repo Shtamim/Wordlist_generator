@@ -68,7 +68,7 @@ To set up the development environment:
 
 ## Code Style
 
-Please adhere to Python's PEP 8 style guide. Maintain consistency with the existing codebase.
+ Maintain [Python's PEP 8 style guide](https://www.python.org/dev/peps/pep-0008/). Maintain consistency with the existing codebase.
 
 ## License
 
