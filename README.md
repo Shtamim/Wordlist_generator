@@ -29,8 +29,7 @@ Thank you for considering contributing to the **wordlist_generator** project! Yo
 - [License](#license)
 
 ## Code of Conduct
-
-This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to tamim4960@gmail.com.
+This project adheres to a [Code of Conduct](code_of_conduct.md). By participating, you are expected to uphold this code.Please report unacceptable behavior to tamim4960@gmail.com.
 
 ## How to Contribute
 
