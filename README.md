@@ -1,7 +1,7 @@
 
 [![Development Environment](https://img.shields.io/badge/Environment-Android-brightgreen)](https://developer.android.com/)
 [![Version](https://img.shields.io/badge/Version-1.0-blue)](https://your-project-releases)
-![Tested with Termux](https://img.shields.io/badge/Tested-Termux-blue?style=flat-square&logo=termux&logoColor=white)
+[![Tested with Termux](https://img.shields.io/badge/Tested-Termux-blue?style=flat-square&logo=termux&logoColor=white)](https://termux.com)
 
 ## Wordlist_generator
 
